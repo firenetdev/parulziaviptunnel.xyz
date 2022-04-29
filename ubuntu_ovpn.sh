@@ -2,9 +2,9 @@
 cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 #Database Details
 HOST='209.159.152.66';
-USER='crypticv_freedata';
+USER='crypticv_parulzia';
 PASS='@@@@F1r3n3t';
-DBNAME='crypticv_freedata';
+DBNAME='crypticv_parulzia';
 
 install_require()
 {
